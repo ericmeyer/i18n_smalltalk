@@ -1,0 +1,19 @@
+en:
+  hello: "Hello world"
+
+  header: "Some Header"
+  number_of_things:
+    zero: "There are %{count} things"
+    one: "There is %{count} thing"
+    other: "There are %{count} things"
+
+  # IGNORE BELOW FOR NOW
+  app:
+    views:
+      welcome:
+        index:
+          header: "Some Header"
+          number_of_things:
+            zero: "There are %{count} things"
+            one: "There is %{count} thing"
+            other: "There are %{count} things"
